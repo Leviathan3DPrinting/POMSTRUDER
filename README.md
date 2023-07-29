@@ -1,5 +1,18 @@
 # POMSTRUDER
-A threadless rolling extruder.
+A threadless rolling extruder. All credits for inspiration go to David Leitner [Video](https://www.youtube.com/watch?v=0x0QdLChE84&t=1s). Designed to use the same motor FlyCat 2805/140KV.
+
+### Needed
+
+- 2mm X 4mm Dowel Pins
+
+- 4mm X 10mm Dowel Pins
+
+- Spare Ender 3 POM Wheels
+    - Bearings
+    - Spacer
+
+
+![Image of Jalopy 3D Printer](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/main/Images/Jalopy.jpg)
 
 ## Social Media
 - [Youtube](https://www.youtube.com/@HoodPlastics)
