@@ -12,7 +12,7 @@ A threadless rolling extruder. All credits for inspiration go to David Leitner [
     - Spacer
 
 
-![Image of Jalopy 3D Printer](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/main/Images/Jalopy.jpg)
+![Image of Jalopy 3D Printer](https://github.com/Leviathan3DPrinting/POMSTRUDER/blob/main/Images/POMSTRUDER%20(1).jpg)
 
 ## Social Media
 - [Youtube](https://www.youtube.com/@HoodPlastics)
