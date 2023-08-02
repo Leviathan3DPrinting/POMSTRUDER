@@ -1,5 +1,13 @@
 # POMSTRUDER
-A threadless rolling extruder. All credits for inspiration go to David Leitner [Video](https://www.youtube.com/watch?v=0x0QdLChE84&t=1s). Designed to use the same motor FlyCat 2805/140KV.
+A threadless rolling extruder. Credits for inspiration go to David Leitner [Video](https://www.youtube.com/watch?v=0x0QdLChE84&t=1s) but the CAD is all mine. Designed to use the same motor FlyCat 2805/140KV.
+
+## Equation
+
+For those who don't spend their days calculating the aerodynamics of a cow. []
+
+PI x RodDiameter/Tan(90 - Angle) = Travel distance for one rev.
+
+3.14 X 1.75/Tan(90 - 10) = .9694... mm/rev
 
 ### Needed
 
@@ -16,7 +24,7 @@ A threadless rolling extruder. All credits for inspiration go to David Leitner [
 ### This project is licensed as
 ![image of license](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/3c9b3dcbf7b711fca9938695c092bdc71c62a8bb/LICENSE.png)
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 ## Social Media
 - [Youtube](https://www.youtube.com/@HoodPlastics)
@@ -24,3 +32,7 @@ A threadless rolling extruder. All credits for inspiration go to David Leitner [
 
 ## Show your support!
 - [Buymeacoffee](https://www.buymeacoffee.com/Leviathan3D)
+
+### Check out ENSO to see what he does with the extruder.
+
+[Github](https://github.com/ENSO-3D/ICS.200) - Cheers
