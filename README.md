@@ -22,7 +22,7 @@ PI x RodDiameter/Tan(90 - Angle) = Travel distance for one rev.
 ![Image of Jalopy 3D Printer](https://github.com/Leviathan3DPrinting/POMSTRUDER/blob/main/Images/POMSTRUDER%20(1).jpg)
 
 ### This project is licensed as
-![image of license]((https://github.com/Leviathan3DPrinting/POMSTRUDER/blob/main/Images/License.png))
+![image of license](https://github.com/Leviathan3DPrinting/POMSTRUDER/blob/5bd37223bc8e1f86a2c05e0013afc5c095849b78/Images/LICENSE.png)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
