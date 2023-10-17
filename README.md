@@ -31,7 +31,7 @@ PI x RodDiameter/Tan(90 - Angle) = Travel distance for one rev.
 - [Github](https://github.com/ENSO-3D/ICS.200) - Cheers
 
 ## Social Media
-- [Youtube](https://www.youtube.com/@HoodPlastics)
+- [Youtube](https://www.youtube.com/@Leviathan3DPrinting)
 - [Instagram](https://www.instagram.com/leviathan3dprinting)
 
 ## Show your support!
